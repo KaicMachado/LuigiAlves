@@ -113,10 +113,13 @@ span {
 .footer-dev {
  margin: 0 auto;
  padding: 20px;
- color: #fff;
+ color: #cecece;
  text-align: center;
 }
 
+.footer-dev a {
+ color: #fff;
+}
 /* Responsivo */
 
 @media (max-width: 1100px) {
